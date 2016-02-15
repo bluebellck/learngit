@@ -1,0 +1,65 @@
+[33mcommit c1da8636c41f3d7800779e2841e8eecb6f967f83[m
+Author: chenken <1453273734@qq.com>
+Date:   Mon Feb 15 09:07:49 2016 +0800
+
+    a new branch
+
+[33mcommit 3434e62760e4695c6a855a2a98a276a429e67996[m
+Author: chenken <1453273734@qq.com>
+Date:   Sun Feb 14 14:17:32 2016 +0800
+
+    delete file a.txt a
+
+[33mcommit fc4ebe6c1a0c342b100590e75aa9b1430372f995[m
+Author: chenken <1453273734@qq.com>
+Date:   Sun Feb 14 14:16:56 2016 +0800
+
+    add file a.txt
+
+[33mcommit 712b3b88f18421b45daa3dfc23c316be41fedf79[m
+Author: chenken <1453273734@qq.com>
+Date:   Sun Feb 14 14:16:23 2016 +0800
+
+    delete file
+
+[33mcommit 6f1ec3ac16edf0dcdc9ca454d097ff70c6f10a8a[m
+Author: chenken <1453273734@qq.com>
+Date:   Sun Feb 14 14:15:38 2016 +0800
+
+    add file
+
+[33mcommit 8d78a24b051c1b7a0fbb68a0e0d9b9d1e8ab4c2f[m
+Author: chenken <1453273734@qq.com>
+Date:   Sun Feb 14 12:45:02 2016 +0800
+
+    delete files
+
+[33mcommit 1579b2443b2f097ef88504f11ef3cbafd5cc321e[m
+Author: chenken <1453273734@qq.com>
+Date:   Fri Feb 5 09:47:25 2016 +0800
+
+    add cache file
+
+[33mcommit 64250588cd190389dfaedf005a42ec4e257f1da3[m
+Author: chenken <1453273734@qq.com>
+Date:   Fri Feb 5 09:47:07 2016 +0800
+
+    add licnese file
+
+[33mcommit 8af36754cc70a11e492ce06258f37102b7f26d36[m
+Author: chenken <1453273734@qq.com>
+Date:   Fri Feb 5 09:25:37 2016 +0800
+
+    add more
+
+[33mcommit 1f6b24ffff2f95281d4be8f9e3c32a48a2d72e86[m
+Author: chenken <1453273734@qq.com>
+Date:   Fri Feb 5 09:22:53 2016 +0800
+
+    add distributed
+
+[33mcommit 77f5494e40c3419656d70fff1d2a4168b5fa3895[m
+Author: chenken <1453273734@qq.com>
+Date:   Fri Feb 5 09:16:53 2016 +0800
+
+    wrote a readme file
